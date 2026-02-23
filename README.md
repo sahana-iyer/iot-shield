@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=180&section=header&text=IOT-SHIELD&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Network%20Intrusion%20Detection%20for%20IoT%20%26%20Embedded%20Systems&descAlignY=55&descSize=16&descColor=00CC33" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=180&section=header&text=IOT-SHIELD&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Network+Intrusion+Detection+for+IoT&descAlignY=55&descSize=16&descColor=00CC33" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Detects+malicious+network+traffic+in+real+time.;XGBoost+%7C+80.4%25+Accuracy+%7C+NSL-KDD;Django+REST+API+%2B+React+Dashboard." alt="Typing SVG" />
 
